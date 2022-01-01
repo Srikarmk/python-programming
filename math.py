@@ -1,3 +1,4 @@
+#few math modules
 import math
 a=float(input())
 print(math.factorial(int(a)))  #returns factorial of a
